@@ -1,0 +1,10 @@
+{
+  "started": "2025-09-03T00:43:07",
+  "num_tests": 10,
+  "num_errors": 10,
+  "results_path": "results\\results.jsonl",
+  "report_path": "results\\report.html",
+  "took_seconds": 93.26,
+  "model": "gpt-4o-mini",
+  "mode": "chat"
+}

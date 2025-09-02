@@ -1,0 +1,3 @@
+# Paste YOUR pharmacist prompt below.
+# This file is intentionally blank as a placeholder.
+# The runner will load this entire file as the system message.
